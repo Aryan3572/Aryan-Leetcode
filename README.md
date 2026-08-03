@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
+| [1922-count-good-numbers](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

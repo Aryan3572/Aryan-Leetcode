@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0090-subsets-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -68,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

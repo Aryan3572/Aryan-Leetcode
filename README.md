@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3731-find-missing-elements](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0040-combination-sum-ii) |

@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0216-combination-sum-iii) |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -23,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -101,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

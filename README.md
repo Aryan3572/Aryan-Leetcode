@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1510-stone-game-iv) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

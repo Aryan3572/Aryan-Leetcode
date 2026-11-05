@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0185-department-top-three-salaries](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0577-employee-bonus) |

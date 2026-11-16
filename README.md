@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1934-confirmation-rate) |
 ## Geometry
 |  |

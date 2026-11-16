@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Aryan3572/Aryan-Leetcode/tree/master/1070-product-sales-analysis-iii) |
